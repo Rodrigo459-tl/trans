@@ -1,5 +1,5 @@
 # TalkCollab
-###SISTEMA DE GESTIÓN DE TAREAS COLABORATIVAS
+##SISTEMA DE GESTIÓN DE TAREAS COLABORATIVAS
 Desarrollar un sistema de gestión de tareas colaborativo que permita a los usuarios crear, asignar, seguir y completar tareas en un entorno de equipo. El sistema debe incluir las siguientes características:
 
 
